@@ -1,13 +1,14 @@
-#Atividade do minicurso de GitHub - UTFPR
+#Atividade do minicurso de GitHub - UTFPR <h1>
 
-##Esse é um exemplo de aplicação da linguagem Markdown.
+##Esse é um exemplo de aplicação da linguagem Markdown. <h2>
 
-  . Comprar um Hot Dog;
-  . Ligar o PC;
-  . Assistir Série.
+  * Comprar um Hot Dog;
+  * Ligar o PC;
+  * Assistir Série.
   
 Exemplo de código em C:
-```
+
+```C
 #include <stdio.h>
 #include <stdlib.h>
 
